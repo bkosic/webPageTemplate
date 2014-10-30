@@ -1,6 +1,7 @@
 
 body {
 	background-color: #3f3f3f;
+	padding: 30em;
 }
 
 
@@ -9,7 +10,9 @@ body {
 #############################################################################################################
 
 .container {
-	background-color: #000;
+	background-color: white;
+	width: 80%;
+	margin: 0em auto;
 }
 
 
